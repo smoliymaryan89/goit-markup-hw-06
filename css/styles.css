@@ -377,8 +377,8 @@ body {
   row-gap: 48px;
 }
 .gallery-item {
-  /* width: 360px; */
-  flex-basis: calc((100% - 48) / 3);
+  /* width: 360px;
+  flex-basis: calc((100% - 48) / 3); */
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .gallery-thumb {
